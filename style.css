@@ -17,3 +17,8 @@ em strong {color: #FF0000;}
 h1 {
   text-align: center;
 }
+
+#cavalos.jpg {
+  width: 200px
+  height: 100px 
+}
